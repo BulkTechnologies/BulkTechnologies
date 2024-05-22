@@ -30,16 +30,14 @@ Authenticate your requests using an API Key and username or an Auth Token.
 ### Sending Bulk SMS
 Easily integrate SMS functionality into your application by sending HTTP POST requests to our SMS API.
 
-**Live Endpoint**: `https://api.bulktechnologies.com/version1/messaging`
+**Live Endpoint**: `https://api.bulktechnologies.com/v1/messaging`
 
-**Sandbox Endpoint**: `https://api.sandbox.bulktechnologies.com/version1/messaging`
 
 ### Sending USSD Codes
 Process USSD requests to provide interactive services to your customers.
 
-**Live Endpoint**: `https://api.bulktechnologies.com/version1/ussd`
+**Live Endpoint**: `https://api.bulktechnologies.com/v1/ussd`
 
-**Sandbox Endpoint**: `https://api.sandbox.bulktechnologies.com/version1/ussd`
 
 ## 💡 Get Started
 
